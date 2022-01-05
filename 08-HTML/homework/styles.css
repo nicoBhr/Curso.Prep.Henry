@@ -1,0 +1,30 @@
+.divClass h1 {
+    color: blue;
+}
+
+#thirdDiv ul {
+    height: 600px;
+    width: 500px;
+    background-color: black;
+}
+
+#thirdDiv ul li img {
+    width: 400px;
+    margin-right: 500px;
+}
+
+#thirdDiv {
+    padding: 50px;
+    border: 5px solid aqua;
+}
+
+
+#thirdDiv ul {
+    display: flex;
+    flex-direction: row;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
